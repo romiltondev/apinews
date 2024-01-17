@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 const apiUrl='https://newsapi.org/v2/top-headlines'
 
-const apiKey='0c9595cdb70147fb8ec428a02e3ffdbe'
+const apiKey='Your key'
 const url = `${apiUrl}?apiKey=${apiKey}&category=technology&pageSize=50`;
 
 const newsContainer=document.getElementById('news-container')
