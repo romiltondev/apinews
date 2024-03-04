@@ -1,4 +1,6 @@
 # apinews
 Api de noticias
 ## Tecnologias usadas
-html-css3-javascript
+ - html5
+ - css3
+ - javascript
